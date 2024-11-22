@@ -9,7 +9,7 @@ The program uses Python and the Beautiful Soup library to scrape data from the W
 
 ### Features
 - Extracts company names, revenue, and other relevant details.
-- Saves the scraped data into a structured format (CSV or JSON).
+- Saves the scraped data into a structured format (CSV).
 
 ### Purpose
 - Practice web-scraping techniques.
