@@ -31,7 +31,7 @@ Ensure you have Python installed along with the required libraries:
 You can install them using pip:
 ```bash
 pip install beautifulsoup4 requests pandas
-
+```
 ---
 
 ## Outputs
