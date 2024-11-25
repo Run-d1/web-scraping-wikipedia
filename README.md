@@ -1,4 +1,4 @@
-# Web-Scraping-Wikipedia Project: Largest US Companies by Revenue
+# Web Scraping Wikipedia Project: Largest US Companies by Revenue
 
 This project is my first web-scraping program, completed as part of the 'Data Analyst Bootcamp' by Alex The Analyst on YouTube. The goal of this project is to scrape structured data from a Wikipedia page and make it accessible for analysis.
 
